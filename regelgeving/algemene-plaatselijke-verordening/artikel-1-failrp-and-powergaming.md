@@ -6,12 +6,10 @@
 4. De overtreding vermeld in het derde lid staat bekend als "powergaming"
 5. Het is niet toegestaan om meerdere handelingen in een keer uit te voeren via /me
 6. Hij/zij die zich niet houdt aan lid 5 zal gestarft worden volgense de 1e categorie
-7. Het is niet toegestaan om met een lekke band te blijven rijden.
-8. Hij/zij die zich niet houdt aan lid 7 zal bestarft worden volgens de 1e categorie
-9. Hij/zij die zich niet houdt aan lid 9 en 10 houdt wordt bestraft volgens de 2e categorie.
-10. Het is niet toegestaan om tijdens achtervolging een voertuig uit je garage te halen, indien je 15 minuten uit het zicht bent van de politie is dit wel toegestaan.
-11. De overtreding vermeld in lid 10 zal bestraft worden volgens de 1e categorie.
-12. Enkele voorbeelden van lid 1 en lid 3 zijn: \
+7. Hij/zij die zich niet houdt aan lid 8 en 10 houdt wordt bestraft volgens de 2e categorie.
+8. Het is niet toegestaan om tijdens achtervolging een voertuig uit je garage te halen, indien je 15 minuten uit het zicht bent van de politie is dit wel toegestaan.
+9. De overtreding vermeld in lid 10 zal bestraft worden volgens de 1e categorie.
+10. Enkele voorbeelden van lid 1 en lid 3 zijn: \
     Proberen "loopholes" te vinden in de regels en/of de regels te misbruiken voor je eigen voordeel:
     * In het water zwemmen voor een onrealistisch lange tijd;
     * In een portofoon praten terwijl je aan het zwemmen bent of onderwater bent;
