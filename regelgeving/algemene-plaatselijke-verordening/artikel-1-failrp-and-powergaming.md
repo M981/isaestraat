@@ -5,7 +5,7 @@
 3. Hij/zij die opzettelijk de roleplay zodanig vormt dat er een oneerlijke of onrealistische draai aan het verhaal geeft, of de roleplay van de andere partij zelf invult door een onrealistische dwang, wordt gestraft volgens de 3e categorie.
 4. De overtreding vermeld in het derde lid staat bekend als "powergaming"
 5. Het is niet toegestaan om meerdere handelingen in een keer uit te voeren via /me
-6. Hij/zij die zich niet houdt aan lid 5 zal gestraft worden volgense de 1e categorie
+6. Hij/zij die zich niet houdt aan lid 5 zal gestraft worden volgens de 1e categorie
 7. Hij/zij die zich niet houdt aan lid 8 en 10 houdt wordt bestraft volgens de 2e categorie.
 8. Het is niet toegestaan om tijdens achtervolging een voertuig uit je garage te halen, indien je 15 minuten uit het zicht bent van de politie is dit wel toegestaan.
 9. De overtreding vermeld in lid 10 zal bestraft worden volgens de 1e categorie.
