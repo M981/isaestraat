@@ -30,7 +30,6 @@
 6. Het omzeilen van een straf zal resulteren in een straf volgens categorie 7.
 7. Bans worden uitgedeeld op basis van de GTA licentie en geldt als zodanig voor alle gebruikers van deze kenmerken.
 8. Een warning/ban dient binnen 48 uur te worden aangevochten door de speler, anders zal er geen mogelijkheid meer zijn op herziening van deze beslissing.
-9. Bij meerdere overtredingen (tegelijkertijd) kan het zijn dat je whitelist wordt afgenomen.
 10. Bij 2 warns in 1 maand, 1 dag ban.
 11. Bij 3 warns in 1 maand, 3 dagen ban.
 12. Bij 4 warns in 1 maand, 1 week ban.
