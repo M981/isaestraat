@@ -8,11 +8,10 @@
 6. Hij/zij die zich niet houdt aan lid 5 zal gestarft worden volgense de 1e categorie
 7. Het is niet toegestaan om met een lekke band te blijven rijden.
 8. Hij/zij die zich niet houdt aan lid 7 zal bestarft worden volgens de 1e categorie
-9. Als je gecrasht bent in een scenario mag je niet meer verder rijden.
-10. Hij/zij die zich niet houdt aan lid 9 en 11 houdt wordt bestraft volgens de 2e categorie.
-11. Het is niet toegestaan om tijdens achtervolging een voertuig uit je garage te halen, indien je uit het zicht bent is dit wel toegestaan.
-12. De overtreding vermeld in lid 11 zal bestraft worden volgens de 1e categorie.
-13. Enkele voorbeelden van lid 1 en lid 3 zijn: \
+9. Hij/zij die zich niet houdt aan lid 9 en 11 houdt wordt bestraft volgens de 2e categorie.
+10. Het is niet toegestaan om tijdens achtervolging een voertuig uit je garage te halen, indien je uit het zicht bent is dit wel toegestaan.
+11. De overtreding vermeld in lid 11 zal bestraft worden volgens de 1e categorie.
+12. Enkele voorbeelden van lid 1 en lid 3 zijn: \
     Proberen "loopholes" te vinden in de regels en/of de regels te misbruiken voor je eigen voordeel:
     * In het water zwemmen voor een onrealistisch lange tijd;
     * In een portofoon praten terwijl je aan het zwemmen bent of onderwater bent;
