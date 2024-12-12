@@ -13,7 +13,6 @@
     Proberen "loopholes" te vinden in de regels en/of de regels te misbruiken voor je eigen voordeel:
     * In het water zwemmen voor een onrealistisch lange tijd;
     * In een portofoon praten terwijl je aan het zwemmen bent of onderwater bent;
-    * Een agent ontvoeren om een signalering te verwijderen of om iets te bekijken in het politiesysteem (MEOS);
     * Stelen van een voertuig van een burger zonder enige geldige reden;
     * Emotes spammen of ongepaste emotes gebruiken tijdens een serieus roleplayscenario;
     * &#x20;Je voertuig als gestolen melden bij de politie of koninklijke marechaussee, terwijl dit niet het geval is;
