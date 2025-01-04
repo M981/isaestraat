@@ -1,4 +1,4 @@
-# Artikel 30 - Crimineel gedrag jegens ambulancemedewerkers en TVC medewerkers
+# Artikel 30 - Crimineel gedrag jegens ambulancemedewerkers en TWC medewerkers
 
 1. Het is ten strengste verboden om een ambulance-/TWCmedewerker te ontvoeren. of te vermoorden
 2. Het is ten strengste verboden om een ambulance-/TWCmedewerker te beledigen of niet mee te werken met de roleplay van een ambulancier.
