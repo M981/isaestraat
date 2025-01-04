@@ -5,7 +5,6 @@
 
 * Het gemeentehuis.
 * Het ziekenhuis.
-* De ANWB.
-* De Basic-Fit.
+* TWC.
 
 3. Het is niet toegestaan om de aangegeven greenzones in te vluchten tijdens een scenario.
