@@ -1,7 +1,7 @@
 # Artikel 25 - Criminaliteit & Ambtenaren
 
 1. Voor een ambtenaar is het niet toegestaan zich bezig te houden met illegale bezigheden (corruptie).
-2. U bent als ambtenaar als je werkzaam bent voor overheidsdiensen (Politie, Kmar, Ambulance, ANWB, Openbaar Ministerie, Nieuwsmedewerker en Makelaar).
+2. U bent als ambtenaar als je werkzaam bent voor overheidsdiensen (Politie, Kmar, Ambulance, TWC, Openbaar Ministerie, Nieuwsmedewerker en Makelaar).
 3. Indien een persoon de regel zoals beschreven in lid 1 overtreed wordt deze bestraft met een straf volgens categorie 6 en zal deze persoon ontslagen worden en deze persoon dit beroep twee weken lang niet uitvoeren.
 4. Verder is het niet toegestaan om door de politie in beslag genomen objecten door te handelen naar spelers. Ditzelfde is ook van toepassing op alle andere overheids objecten.
 5. Bij een overtreding van de regel in lid 4 wordt de overtreder ontslagen en hiernaast bestraft volgens de 6e categorie.
