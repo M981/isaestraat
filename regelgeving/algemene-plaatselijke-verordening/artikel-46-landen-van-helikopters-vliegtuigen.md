@@ -7,7 +7,7 @@
 De volgende gebieden worden gezien als nofly zones:
 
 - Blokkenpark
-- Overheidslocaties (politie bureau, TWC, ziekenhuis, kmar gebouw)
+- Overheidslocaties (politie bureau, BBT, ziekenhuis, kmar gebouw)
 
 Mocht jij in het bezit zijn van een helikopter, ga er dan verantwoordt mee om. Probeer je helikopter ten alle tijden op de volgende plekken te landen:
 
