@@ -9,8 +9,7 @@
 * bank - van 3 tot 7
 * Humane labs - 8
 
-4. Het is niet toegestaan om een hit en run te doen, je moet mininimaal 10 minuten wachten voor dat je mag vluchten uit het pand.
+4. Het is niet toegestaan om een hit en run te doen, je moet mininimaal 10 minuten wachten voor dat je mag vluchten uit het pand. (bij alle overvallen dient u te wachten tot er een agent aanwezig is. behalve een winkel, deze mag gedaan worden als hit en run)
 5. Hij/zij die zich niet houdt aan lid 4 wordt bestraft volgens de 1e categorie, de buit zal ook ingenomen worden.
 6. het is niet toegestaan om je vrienden of mensen uit je eigen netwerk te ontvoeren om te gerbruiken als hostage voor overvallen of gijzelingen
-7. Het is niet toegestaan een overval te plegen met een supercar/hypercar.
-8. Hij/zij die zich niet houdt aan lid 6 of lid 7 wordt bestraft volgens de 2e categorie.
+7. Hij/zij die zich niet houdt aan lid 6 wordt bestraft volgens de 2e categorie.
